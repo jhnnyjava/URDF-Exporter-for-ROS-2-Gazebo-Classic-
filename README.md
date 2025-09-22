@@ -59,7 +59,3 @@ This exporter is tailored for Gazebo Classic (not Ignition Gazebo).
 Exported URDFs may require manual edits for complex assemblies.
 
 Contributions and improvements are welcome — feel free to open pull requests!
-
-📜 License
-
-MIT License. Free to use and modify.
