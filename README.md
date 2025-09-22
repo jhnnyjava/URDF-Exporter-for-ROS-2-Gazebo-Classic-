@@ -28,7 +28,7 @@ Restart Fusion 360
 
 Open Fusion 360.
 
-Go to Tools > Scripts and Add-ins.
+Go to UTILITIES > Scripts and Add-ins.
 
 You should now see URDF_Exporter_Ros2 listed.
 
